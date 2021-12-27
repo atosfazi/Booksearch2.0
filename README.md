@@ -9,6 +9,7 @@ Django based web app for searching similar book positions to the given title. Th
 ## Requirements
 * Python: 3.x
 * Django: 3.1.3
+* NumPy: 1.19.3
 * Unidecode
   
 ## Setup
